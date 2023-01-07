@@ -1,2 +1,2 @@
 # LINK-LIST
-In this project, I tried to design and build the "link list" with various functions necessary for implementation, with C# programming language.
+In the "Link List" project, in addition to "Link List", I also implemented "Queue" and designed the required functions.
