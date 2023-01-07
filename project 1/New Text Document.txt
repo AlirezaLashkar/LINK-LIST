@@ -1,0 +1,36 @@
+/*Console.WriteLine("LINK LIST:  ");
+            linkList.addNode(1);
+            linkList.addNode(2);
+            linkList.addNode(3);
+            linkList.addNode(4);
+            linkList.addNode(5);
+            linkList.addNode(6);
+            linkList.printList();//print krdn list
+            Console.WriteLine();
+            linkList.delete(2);
+            linkList.printList();//print karadn list ba delete krdn 2
+            Console.WriteLine();
+            linkList.print();//print kardn list ba sare ezafe
+            Console.WriteLine();
+            linkList.printReversList();//print krdn makos yek list ba estfde az in ke aval list ro makos konim
+            Console.WriteLine();
+            linkList.printReversList(linkList.head);//print krdn makos yek list az ravesh orginal
+            Console.WriteLine();
+            linkList.swap(3, 1);
+            linkList.printList();//print krdn swap shude yek list
+            Console.WriteLine();
+            linkList.swap(2, 4);
+            linkList.printList();
+            ////////////
+            Console.WriteLine("QUEUE:  ");
+            ////////////
+            queue q = new queue();
+            q.addNode(4);
+            q.addNode(5);
+            q.addNode(6);
+            q.addNode(7);
+            q.addNode(5);
+            q.printQueueE();
+            Console.WriteLine();
+            q.delete();
+            q.printQueueE();*/
