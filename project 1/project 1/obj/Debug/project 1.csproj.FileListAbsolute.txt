@@ -1,8 +1,0 @@
-C:\Users\AsrNOavaran\OneDrive\Desktop\book\Sakhteman DADE\project\project 1\project 1\project 1\bin\Debug\project 1.exe.config
-C:\Users\AsrNOavaran\OneDrive\Desktop\book\Sakhteman DADE\project\project 1\project 1\project 1\bin\Debug\project 1.exe
-C:\Users\AsrNOavaran\OneDrive\Desktop\book\Sakhteman DADE\project\project 1\project 1\project 1\bin\Debug\project 1.pdb
-C:\Users\AsrNOavaran\OneDrive\Desktop\book\Sakhteman DADE\project\project 1\project 1\project 1\obj\Debug\project 1.csproj.AssemblyReference.cache
-C:\Users\AsrNOavaran\OneDrive\Desktop\book\Sakhteman DADE\project\project 1\project 1\project 1\obj\Debug\project 1.csproj.SuggestedBindingRedirects.cache
-C:\Users\AsrNOavaran\OneDrive\Desktop\book\Sakhteman DADE\project\project 1\project 1\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
-C:\Users\AsrNOavaran\OneDrive\Desktop\book\Sakhteman DADE\project\project 1\project 1\project 1\obj\Debug\project 1.exe
-C:\Users\AsrNOavaran\OneDrive\Desktop\book\Sakhteman DADE\project\project 1\project 1\project 1\obj\Debug\project 1.pdb
